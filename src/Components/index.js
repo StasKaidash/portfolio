@@ -1,0 +1,10 @@
+export {default as Header} from "./header/Header.jsx"
+export {default as Footer} from "./footer/Footer.jsx";
+export {default as Home} from "./home/Home.jsx";
+export {default as About} from "./about/About.jsx";
+export {default as Nav} from "./nav/Nav.jsx";
+export {default as Clients} from "./clients/Clients.jsx";
+export {default as Contact} from "./contact/Contact.jsx";
+export {default as Portfolio} from "./portfolio/Portfolio.jsx";
+export {default as Services} from "./services/Services.jsx";
+export {default as Skills} from "./skills/SkillsInfo.jsx";
